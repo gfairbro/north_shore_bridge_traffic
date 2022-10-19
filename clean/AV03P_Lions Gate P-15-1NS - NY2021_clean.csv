@@ -1,4 +1,4 @@
-,Time,Road,PDir,NDir,Weekday,Bridge,Year
+,Hour,Trips,North,South,Weekday,Bridge,Year
 0,0,772,415,357,SUN,Lion's Gate,2021
 1,1,479,251,227,SUN,Lion's Gate,2021
 2,2,305,163,141,SUN,Lion's Gate,2021

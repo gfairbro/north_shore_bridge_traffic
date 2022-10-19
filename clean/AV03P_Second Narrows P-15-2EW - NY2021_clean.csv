@@ -1,4 +1,4 @@
-,Time,Road,PDir,NDir,Weekday,Bridge,Year
+,Hour,Trips,North,South,Weekday,Bridge,Year
 0,0,1050,559,490,SUN,Second Narrows,2021
 1,1,559,299,260,SUN,Second Narrows,2021
 2,2,375,207,167,SUN,Second Narrows,2021

@@ -1,4 +1,4 @@
-,Time,Road,PDir,NDir,Weekday,Bridge,Year
+,Hour,Trips,North,South,Weekday,Bridge,Year
 0,0,652,355,296,SUN,Lion's Gate,2020
 1,1,408,218,190,SUN,Lion's Gate,2020
 2,2,251,134,117,SUN,Lion's Gate,2020

@@ -1,4 +1,4 @@
-,Time,Road,PDir,NDir,Weekday,Bridge,Year
+,Hour,Trips,North,South,Weekday,Bridge,Year
 0,0,1568,743,825,SUN,Second Narrows,2019
 1,1,881,418,462,SUN,Second Narrows,2019
 2,2,530,247,283,SUN,Second Narrows,2019

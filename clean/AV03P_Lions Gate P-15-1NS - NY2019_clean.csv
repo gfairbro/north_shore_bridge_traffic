@@ -1,4 +1,4 @@
-,Time,Road,PDir,NDir,Weekday,Bridge,Year
+,Hour,Trips,North,South,Weekday,Bridge,Year
 0,0,1139,679,459,SUN,Lion's Gate,2019
 1,1,755,441,314,SUN,Lion's Gate,2019
 2,2,505,284,220,SUN,Lion's Gate,2019
