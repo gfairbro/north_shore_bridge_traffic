@@ -1,2 +1,2 @@
 # north_shore_bridge_traffic
-A project to visualize and extrapolate North Vancouver Bridge Traffic
+Code for creating visualisations of North Vancouver Bridge Traffic. Blog Here: TODO <link>
